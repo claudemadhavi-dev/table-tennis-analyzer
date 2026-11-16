@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Videos and review files made by the app
+*.mp4
+*.mov
+*.m4v
+*.ttproj
